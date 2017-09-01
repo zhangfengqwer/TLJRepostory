@@ -1,0 +1,2 @@
+ctrl+shift+B
+在Debug目录下
