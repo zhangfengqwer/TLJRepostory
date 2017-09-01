@@ -3,3 +3,8 @@ C:\Users\Administrator\Desktop\TLJCommon\TLJCommon\bin\Debug\TLJCommon.pdb
 C:\Users\Administrator\Desktop\TLJCommon\TLJCommon\obj\Debug\TLJCommon.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\TLJCommon\TLJCommon\obj\Debug\TLJCommon.dll
 C:\Users\Administrator\Desktop\TLJCommon\TLJCommon\obj\Debug\TLJCommon.pdb
+C:\Users\Administrator\Desktop\TLJ_LoginService\TLJCommon\TLJCommon\bin\Debug\TLJCommon.dll
+C:\Users\Administrator\Desktop\TLJ_LoginService\TLJCommon\TLJCommon\bin\Debug\TLJCommon.pdb
+C:\Users\Administrator\Desktop\TLJ_LoginService\TLJCommon\TLJCommon\obj\Debug\TLJCommon.dll
+C:\Users\Administrator\Desktop\TLJ_LoginService\TLJCommon\TLJCommon\obj\Debug\TLJCommon.pdb
+C:\Users\Administrator\Desktop\TLJ_LoginService\TLJCommon\TLJCommon\obj\Debug\TLJCommon.csprojResolveAssemblyReference.cache
